@@ -1,58 +1,48 @@
 {
   "version": 1,
-  "base_track": "Talking Box (Dirty Pop Remix)",
+  "base_track": "Talking Box – Dirty Pop Remix",
   "base_artist": "WurtS",
-  "createdAt": "2026-03-24T09:19:47.728697Z",
+  "createdAt": "2026-04-03T11:23:32.611081Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Talking Box - Dirty Pop Remix",
+      "title": "Talking Box (Dirty Pop Remix)",
       "artist": "WurtS",
-      "has_synced": true,
-      "path": "select/01_Talking_Box_-_Dirty_Pop_Remix_WurtS.lrc"
+      "has_synced": false,
+      "path": "select/01_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
       "title": "Talking Box (Dirty Pop Remix)",
       "artist": "WurtS",
-      "has_synced": false,
-      "path": "select/02_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
+      "has_synced": true,
+      "path": "select/02_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Talking Box (Dirty Pop Remix)",
+      "title": "Talking Box",
       "artist": "WurtS",
       "has_synced": true,
-      "path": "select/03_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc"
+      "path": "select/03_Talking_Box_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Talking Box - Dirty Pop Remix",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/04_Talking_Box_-_Dirty_Pop_Remix_WurtS.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Talking Box (Dirty Pop Remix)",
+      "title": "Talking Box",
       "artist": "WurtS",
       "has_synced": false,
-      "path": "select/pl_01_Talking_Box_(Dirty_Pop_Remix)_WurtS.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "Talking Box (Dirty Pop Remix)",
-      "artist": "WurtS",
-      "has_synced": true,
-      "path": "select/localdb_01_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc",
-      "repo_name": "2JLMtmUxKZI"
-    },
-    {
-      "id": "localdb_2",
-      "source": "localdb",
-      "title": "Talking Box (Dirty Pop Remix)",
-      "artist": "WurtS",
-      "has_synced": true,
-      "path": "select/localdb_02_Talking_Box_(Dirty_Pop_Remix)_WurtS.lrc",
-      "repo_name": "NVZurhixJ6U"
+      "path": "select/pl_01_Talking_Box_WurtS.txt"
     }
   ]
 }
